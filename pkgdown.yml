@@ -3,7 +3,7 @@ pkgdown: 2.0.6
 pkgdown_sha: ~
 articles:
   lorem-ipsum: lorem-ipsum.html
-last_built: 2022-08-19T15:45Z
+last_built: 2022-08-19T16:03Z
 urls:
   reference: https://henninglorenzen-ext-bayer.github.io/pkgdown-demo-ghp/reference
   article: https://henninglorenzen-ext-bayer.github.io/pkgdown-demo-ghp/articles
