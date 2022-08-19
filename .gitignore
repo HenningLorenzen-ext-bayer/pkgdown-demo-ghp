@@ -40,3 +40,4 @@ vignettes/*.pdf
 
 # from usethis::use_pkgdown_github_pages()
 docs
+inst/doc
