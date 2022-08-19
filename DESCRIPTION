@@ -15,5 +15,6 @@ URL: https://github.com/HenningLorenzen-ext-bayer/pkgdown-demo-ghp,
 BugReports: https://github.com/HenningLorenzen-ext-bayer/pkgdown-demo-ghp/issues
 Suggests: 
     knitr,
+    learnr,
     rmarkdown
 VignetteBuilder: knitr
