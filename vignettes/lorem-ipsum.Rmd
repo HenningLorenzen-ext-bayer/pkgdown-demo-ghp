@@ -1,0 +1,19 @@
+---
+title: "Lorem ipsum"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Lorem ipsum}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(hl.pkgdown.demo.ghp)
+```
