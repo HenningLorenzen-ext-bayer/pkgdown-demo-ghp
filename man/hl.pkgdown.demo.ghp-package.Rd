@@ -4,9 +4,9 @@
 \name{hl.pkgdown.demo.ghp-package}
 \alias{hl.pkgdown.demo.ghp}
 \alias{hl.pkgdown.demo.ghp-package}
-\title{hl.pkgdown.demo.ghp: What the Package Does (Title Case)}
+\title{hl.pkgdown.demo.ghp: My miscellaneous utilities, documented with {pkgdown}}
 \description{
-More about what it does (maybe more than one line) Use four spaces when indenting paragraphs within the Description.
+This package is right now just a sandbox to study what {pkgdown} (and GitHub Actions) can do for you
 }
 \seealso{
 Useful links:

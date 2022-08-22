@@ -1,12 +1,12 @@
 Package: hl.pkgdown.demo.ghp
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Title: My miscellaneous utilities, documented with {pkgdown}
+Version: 0.0.1
+Author: Henning Lorenzen
+Maintainer: Henning Lorenzen <henning.lorenzen.ext@bayer.com>
+Description: This package is right now just a sandbox to study what
+    {pkgdown} (and GitHub Actions) can do for me (and maybe you).
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.1
