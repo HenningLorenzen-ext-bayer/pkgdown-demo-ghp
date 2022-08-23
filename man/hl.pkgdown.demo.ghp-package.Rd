@@ -6,7 +6,7 @@
 \alias{hl.pkgdown.demo.ghp-package}
 \title{hl.pkgdown.demo.ghp: My miscellaneous utilities, documented with {pkgdown}}
 \description{
-This package is right now just a sandbox to study what {pkgdown} (and GitHub Actions) can do for you
+This package is right now just a sandbox to study what {pkgdown} (and GitHub Actions) can do for me (and maybe you).
 }
 \seealso{
 Useful links:
